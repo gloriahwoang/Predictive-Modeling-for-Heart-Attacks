@@ -1,4 +1,5 @@
 # Predictive-Modeling-for-Heart-Attacks
+Columbia Data Science Final Project
 Group Project with Joan Akibode, Sanaa Mouzahir, Minh Nguyen, Andrea Lin
 
 ### 1. Introduction
